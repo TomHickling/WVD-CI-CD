@@ -1,1 +1,0 @@
-powershell.exe -executionpolicy bypass -windowstyle hidden -noninteractive -nologo -file "I:\GoldImage\Installapps.ps1"
